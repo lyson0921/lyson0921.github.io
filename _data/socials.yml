@@ -6,7 +6,7 @@ scholar_userid: QzaSjhIAAAAJ # your Google Scholar ID
 orcid_id: 0009-0004-8792-5627 # your ORCID iD
 linkedin_username: yin-song-liao-740500270 # your LinkedIn username
 research_gate_profile: Yin-Song-Liao # your ResearchGate profile slug
-rss_icon: true # comment this line to hide the RSS icon
+#rss_icon: true # comment this line to hide the RSS icon
 # cv_pdf: /assets/pdf/your_cv.pdf # uncomment and update once you upload your CV PDF
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
