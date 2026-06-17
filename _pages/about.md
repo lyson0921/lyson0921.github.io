@@ -18,6 +18,6 @@ selected_papers: true # 在首頁顯示精選論文(從 _bibliography/papers.bib
 social: true          # 在首頁顯示社群連結(Email / Google Scholar 等,設定在 _config.yml)
 ---
 
-I earned my Bachelor's degree from National Tsing Hua University (NTHU) and am currently pursuing a Master's degree at National Taiwan University (NTU), with an expected graduation in July 2026. 
+Hello, I'm Yin-Song Liao, also known as Brook, currently pursuing a Master's degree at National Taiwan University (NTU), with an expected graduation in July 2026. I earned my Bachelor's degree from National Tsing Hua University (NTHU).
 
 My research interests center on surface/interface science, catalysis, electronic structure, and computational materials simulations using density functional theory (DFT) and Machine Learning Interatomic Potentials (MLIP). I am deeply passionate about scientific discovery and eager to contribute to cutting-edge research. 
