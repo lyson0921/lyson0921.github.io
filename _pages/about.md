@@ -6,8 +6,8 @@ subtitle: Master's Student, Graduate School of Advanced Technology, National Tai
 
 profile:
   align: right
-  image: profile.jpg          # 把你的大頭照放到 assets/img/profile.jpg,檔名要對應
-  image_circular: false       # 大頭照是否裁切成圓形
+  image: profile.jpg # 把你的大頭照放到 assets/img/profile.jpg,檔名要對應
+  image_circular: false # 大頭照是否裁切成圓形
   more_info: >
     <p>yinsongliao [at] gmail.com</p>
     <p>Graduate School of Advanced Technology</p>
